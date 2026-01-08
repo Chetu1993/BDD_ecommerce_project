@@ -1,0 +1,4 @@
+2026-01-08 19:06:24,834 | INFO | builtins | user logged in
+2026-01-08 19:06:39,044 | INFO | builtins | user in cart page
+2026-01-08 19:06:52,764 | INFO | builtins | user in checkout page
+2026-01-08 19:06:57,448 | INFO | builtins | user in payment page
